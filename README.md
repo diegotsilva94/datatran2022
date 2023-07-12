@@ -1,4 +1,4 @@
-# Prevendo acidentes fatais nas estradas federeais brasileira
+# Prevendo acidentes fatais nas estradas federais brasileira
 
 O objetivo deste projeto consiste em prever os acidentes fatais, com base nas ocorrências registradas nas estradas federais brasileiras no ano de 2022. Os dados desse ano e de anos anteriores podem ser encontrados no link abaixo:
 
